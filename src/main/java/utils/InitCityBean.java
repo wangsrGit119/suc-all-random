@@ -7,7 +7,6 @@ import com.google.gson.reflect.TypeToken;
 import java.util.List;
 
 /**
- * 初始化city
  * @author wangjianlong
  */
 public class InitCityBean {
@@ -2196,9 +2195,11 @@ public class InitCityBean {
         }.getType());
     }
 
-   public InitCityBean(){
+    /**
+     * 初始化
+     */
+    public InitCityBean(){
         init();
-   }
-
+    }
 
 }
