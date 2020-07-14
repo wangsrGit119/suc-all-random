@@ -65,12 +65,12 @@
  RandomPersonInfoUtil.getRandomProtocol()
 ```
 
->随机指定长度域名（不包括域名后缀）
+>随机指定长度域名（不包括域名后缀长度）
 ```java
  RandomPersonInfoUtil.getRandomDomain(size)
 ```
 
->获取指定域名前缀长度的随机url（不包括域名后缀）
+>获取指定域名前缀长度的随机url（不包括域名后缀长度）
 ```java
  RandomPersonInfoUtil.getRandomUrl(size)
 ```
