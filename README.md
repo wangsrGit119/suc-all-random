@@ -6,7 +6,7 @@
     <dependency>
             <groupId>io.github.wangsrgit119.random.util</groupId>
             <artifactId>suc-all-random</artifactId>
-            <version>1.0.0</version>
+            <version>1.0.1</version>
    </dependency>
 
 ```
