@@ -7,6 +7,8 @@ import utils.RandomPersonInfoUtil;
  */
 public class Test {
     public static void main(String[] args) {
-        System.out.println(RandomPersonInfoUtil.getEmail());
+        for (int i = 0; i < 1000; i++) {
+            System.out.println(RandomPersonInfoUtil.getRandomUrl(7));
+        }
     }
 }
