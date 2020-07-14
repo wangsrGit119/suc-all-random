@@ -6,7 +6,7 @@
 
     <groupId>io.github.wangsrgit119.random.util</groupId>
     <artifactId>suc-all-random</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <name>suc-all-random</name>
     <description>快捷生成用户基础信息</description>
     <url>https://github.com/wangsrGit119/suc-all-random</url>
