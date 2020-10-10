@@ -1,3 +1,7 @@
+
+![](https://img.shields.io/maven-central/v/io.github.wangsrgit119.random.util/suc-all-random)
+----
+
 #### 随机生成工具包
 ##### 为供测试或者数据库模拟数据方便，想便利大家，只需引入此jar就可以mock数据
 
